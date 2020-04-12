@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Anguished Unmaking"/>
+        <card number="1" name="Anointed Procession"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Archfiend of Ifnir"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Azorius Chancery"/>
+        <card number="1" name="Azorius Signet"/>
+        <card number="1" name="Binding Mummy"/>
+        <card number="1" name="Bone Miser"/>
+        <card number="1" name="Carrion Feeder"/>
+        <card number="1" name="Castle Locthwain"/>
+        <card number="1" name="Cathars' Crusade"/>
+        <card number="1" name="Cavern of Souls"/>
+        <card number="1" name="Cemetery Reaper"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Crypt of Agadeem"/>
+        <card number="1" name="Cryptbreaker"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Death Baron"/>
+        <card number="1" name="Dictate of Erebos"/>
+        <card number="1" name="Dimir Aqueduct"/>
+        <card number="1" name="Dimir Signet"/>
+        <card number="1" name="Diregraf Captain"/>
+        <card number="1" name="Diregraf Colossus"/>
+        <card number="1" name="Distant Melody"/>
+        <card number="1" name="Dread Return"/>
+        <card number="1" name="Drowned Catacomb"/>
+        <card number="1" name="Endless Ranks of the Dead"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Fetid Heath"/>
+        <card number="1" name="Field of the Dead"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Ghoulcaller's Chant"/>
+        <card number="1" name="Gisa and Geralf"/>
+        <card number="1" name="God-Eternal Oketra"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Gravecrawler"/>
+        <card number="1" name="Gray Merchant of Asphodel"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Havengul Lich"/>
+        <card number="1" name="Herald's Horn"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Isolated Chapel"/>
+        <card number="1" name="Josu Vess, Lich Knight"/>
+        <card number="1" name="Kindred Discovery"/>
+        <card number="1" name="Lich Lord of Unx"/>
+        <card number="1" name="Lord of the Accursed"/>
+        <card number="1" name="Lord of the Undead"/>
+        <card number="1" name="Marsh Flats"/>
+        <card number="1" name="Mausoleum Secrets"/>
+        <card number="1" name="Midnight Reaper"/>
+        <card number="1" name="Mikaeus, the Unhallowed"/>
+        <card number="1" name="Morphic Pool"/>
+        <card number="1" name="Necromancer's Covenant"/>
+        <card number="1" name="Noxious Ghoul"/>
+        <card number="1" name="Nykthos, Shrine to Nyx"/>
+        <card number="1" name="Orzhov Basilica"/>
+        <card number="1" name="Orzhov Signet"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Patriarch's Bidding"/>
+        <card number="1" name="Phyrexian Reclamation"/>
+        <card number="1" name="Phyrexian Tower"/>
+        <card number="1" name="Plague Belcher"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Reconnaissance"/>
+        <card number="1" name="Relentless Dead"/>
+        <card number="1" name="Shepherd of Rot"/>
+        <card number="1" name="Sidisi, Undead Vizier"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Stubborn Denial"/>
+        <card number="1" name="Sunken Ruins"/>
+        <card number="5" name="Swamp"/>
+        <card number="1" name="Swan Song"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="The Scarab God"/>
+        <card number="1" name="Throne of the God-Pharaoh"/>
+        <card number="1" name="Unburial Rites"/>
+        <card number="1" name="Unclaimed Territory"/>
+        <card number="1" name="Undead Augur"/>
+        <card number="1" name="Undead Warchief"/>
+        <card number="1" name="Unholy Grotto"/>
+        <card number="1" name="Urborg, Tomb of Yawgmoth"/>
+        <card number="1" name="Varina, Lich Queen"/>
+        <card number="1" name="Vault of the Archangel"/>
+        <card number="1" name="Vengeful Dead"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Wayward Servant"/>
+        <card number="1" name="Witch's Cottage"/>
+        <card number="1" name="Withered Wretch"/>
+        <card number="1" name="Wonder"/>
+        <card number="1" name="Zombie Apocalypse"/>
+        <card number="1" name="Zombie Master"/>
+    </zone>
+</cockatrice_deck>

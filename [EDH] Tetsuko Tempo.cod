@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Academy Ruins"/>
+        <card number="1" name="Aether Adept"/>
+        <card number="1" name="Aetherize"/>
+        <card number="1" name="Aetherling"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Beguiler of Wills"/>
+        <card number="1" name="Bident of Thassa"/>
+        <card number="1" name="Bloodforged Battle-Axe"/>
+        <card number="1" name="Boseiju, Who Shelters All"/>
+        <card number="1" name="Cephalid Constable"/>
+        <card number="1" name="Cloud of Faeries"/>
+        <card number="1" name="Coastal Piracy"/>
+        <card number="1" name="Commit // Memory"/>
+        <card number="1" name="Crystal Shard"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Darksteel Citadel"/>
+        <card number="1" name="Desertion"/>
+        <card number="1" name="Dominating Licid"/>
+        <card number="1" name="Equilibrium"/>
+        <card number="1" name="Evacuation"/>
+        <card number="1" name="Fabricate"/>
+        <card number="1" name="Fireshrieker"/>
+        <card number="1" name="Forbid"/>
+        <card number="1" name="Frost Titan"/>
+        <card number="1" name="Hands of Binding"/>
+        <card number="1" name="Haunted Fengraf"/>
+        <card number="1" name="Hidden Strings"/>
+        <card number="1" name="Inkmoth Nexus"/>
+        <card number="1" name="Inventors' Fair"/>
+        <card number="22" name="Island"/>
+        <card number="1" name="Looter il-Kor"/>
+        <card number="1" name="Misdirection"/>
+        <card number="1" name="Mistblade Shinobi"/>
+        <card number="1" name="Muddle the Mixture"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Mystifying Maze"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Notorious Throng"/>
+        <card number="1" name="Opposition"/>
+        <card number="1" name="Pestermite"/>
+        <card number="1" name="Phantasmal Image"/>
+        <card number="1" name="Pilgrim's Eye"/>
+        <card number="1" name="Pongify"/>
+        <card number="1" name="Quietus Spike"/>
+        <card number="1" name="Rapid Hybridization"/>
+        <card number="1" name="Relic of Progenitus"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Rite of Replication"/>
+        <card number="1" name="Roil Elemental"/>
+        <card number="1" name="Runechanter's Pike"/>
+        <card number="1" name="Sakashima's Student"/>
+        <card number="1" name="Seat of the Synod"/>
+        <card number="1" name="Sharding Sphinx"/>
+        <card number="1" name="Silver Myr"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Sky Diamond"/>
+        <card number="1" name="Snapcaster Mage"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Spellskite"/>
+        <card number="1" name="Spellstutter Sprite"/>
+        <card number="1" name="Stolen Identity"/>
+        <card number="1" name="Strip Mine"/>
+        <card number="1" name="Sun Quan, Lord of Wu"/>
+        <card number="1" name="Teferi, Mage of Zhalfir"/>
+        <card number="1" name="Tetsuko Umezawa, Fugitive"/>
+        <card number="1" name="Thada Adel, Acquisitor"/>
+        <card number="1" name="Thawing Glaciers"/>
+        <card number="1" name="Thopter Spy Network"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Time Warp"/>
+        <card number="1" name="Trinket Mage"/>
+        <card number="1" name="Umezawa's Jitte"/>
+        <card number="1" name="Vendilion Clique"/>
+        <card number="1" name="Voidmage Prodigy"/>
+        <card number="1" name="Wash Out"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Whir of Invention"/>
+        <card number="1" name="Withdraw"/>
+        <card number="1" name="Worn Powerstone"/>
+    </zone>
+</cockatrice_deck>
