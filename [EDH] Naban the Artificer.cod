@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Academy Ruins"/>
+        <card number="1" name="Aether Adept"/>
+        <card number="1" name="Aetherflux Reservoir"/>
+        <card number="1" name="Aetherize"/>
+        <card number="1" name="Archaeomancer"/>
+        <card number="1" name="Azami, Lady of Scrolls"/>
+        <card number="1" name="Champion of Wits"/>
+        <card number="1" name="Chief Engineer"/>
+        <card number="1" name="Clock of Omens"/>
+        <card number="1" name="Codex Shredder"/>
+        <card number="1" name="Crystal Shard"/>
+        <card number="1" name="Darksteel Citadel"/>
+        <card number="1" name="Displace"/>
+        <card number="1" name="Dramatic Reversal"/>
+        <card number="1" name="Dreamstone Hedron"/>
+        <card number="1" name="Duplicant"/>
+        <card number="1" name="Engulf the Shore"/>
+        <card number="1" name="Evacuation"/>
+        <card number="1" name="Exclusion Mage"/>
+        <card number="1" name="Expedition Map"/>
+        <card number="1" name="Extraplanar Lens"/>
+        <card number="1" name="Fabricate"/>
+        <card number="1" name="Familiar's Ruse"/>
+        <card number="1" name="Gadwick, the Wizened"/>
+        <card number="1" name="Ghostly Flicker"/>
+        <card number="1" name="Grafdigger's Cage"/>
+        <card number="1" name="Grand Architect"/>
+        <card number="1" name="Inventors' Fair"/>
+        <card number="1" name="Isochron Scepter"/>
+        <card number="1" name="Lantern of Insight"/>
+        <card number="1" name="Leyline of Anticipation"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Mechanized Production"/>
+        <card number="1" name="Mindslaver"/>
+        <card number="1" name="Muddle the Mixture"/>
+        <card number="1" name="Myr Battlesphere"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Naban, Dean of Iteration"/>
+        <card number="1" name="Paradoxical Outcome"/>
+        <card number="1" name="Portal Mage"/>
+        <card number="1" name="Pyxis of Pandemonium"/>
+        <card number="1" name="Quicksilver Fountain"/>
+        <card number="1" name="Reality Shift"/>
+        <card number="1" name="Relic of Progenitus"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Riptide Laboratory"/>
+        <card number="1" name="Rite of Replication"/>
+        <card number="1" name="Salvager of Secrets"/>
+        <card number="1" name="Scavenger Grounds"/>
+        <card number="1" name="Sea Gate Oracle"/>
+        <card number="1" name="Seat of the Synod"/>
+        <card number="1" name="Shimmer Myr"/>
+        <card number="1" name="Sky Diamond"/>
+        <card number="25" name="Snow-Covered Island"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Sower of Temptation"/>
+        <card number="1" name="Spellseeker"/>
+        <card number="1" name="Spellskite"/>
+        <card number="1" name="Star Compass"/>
+        <card number="1" name="Stonybrook Banneret"/>
+        <card number="1" name="Submerge"/>
+        <card number="1" name="Teferi, Mage of Zhalfir"/>
+        <card number="1" name="Tezzeret the Seeker"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Treasure Mage"/>
+        <card number="1" name="Tribute Mage"/>
+        <card number="1" name="Trinket Mage"/>
+        <card number="1" name="Trophy Mage"/>
+        <card number="1" name="Unwinding Clock"/>
+        <card number="1" name="Vedalken Aethermage"/>
+        <card number="1" name="Vedalken Orrery"/>
+        <card number="1" name="Venser, Shaper Savant"/>
+        <card number="1" name="Wash Out"/>
+        <card number="1" name="Watcher for Tomorrow"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Whir of Invention"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Altar of Dementia"/>
+        <card number="1" name="Ancient Excavation"/>
+        <card number="1" name="Animate Dead"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Archaeomancer"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Bloodstained Mire"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Buried Alive"/>
+        <card number="1" name="Burnished Hart"/>
+        <card number="1" name="Cascade Bluffs"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Compulsive Research"/>
+        <card number="1" name="Deadeye Navigator"/>
+        <card number="1" name="Desolate Lighthouse"/>
+        <card number="1" name="Diluvian Primordial"/>
+        <card number="1" name="Dimir Aqueduct"/>
+        <card number="1" name="Dimir Signet"/>
+        <card number="1" name="Displace"/>
+        <card number="1" name="Dockside Extortionist"/>
+        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Drowned Catacomb"/>
+        <card number="1" name="Embalmer's Tools"/>
+        <card number="1" name="Entomb"/>
+        <card number="1" name="Essence Flux"/>
+        <card number="1" name="Etali, Primal Storm"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Faithless Looting"/>
+        <card number="1" name="Fiery Islet"/>
+        <card number="1" name="Ghostly Flicker"/>
+        <card number="1" name="Graven Cairns"/>
+        <card number="1" name="Great Whale"/>
+        <card number="2" name="Island"/>
+        <card number="1" name="Izzet Boilerworks"/>
+        <card number="1" name="Izzet Signet"/>
+        <card number="1" name="Jace's Archivist"/>
+        <card number="1" name="Jin-Gitaxias, Core Augur"/>
+        <card number="1" name="Kiki-Jiki, Mirror Breaker"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Living Death"/>
+        <card number="1" name="Luxury Suite"/>
+        <card number="1" name="Magus of the Wheel"/>
+        <card number="1" name="Mana Confluence"/>
+        <card number="1" name="Massacre Wurm"/>
+        <card number="1" name="Mesmeric Orb"/>
+        <card number="1" name="Mnemonic Wall"/>
+        <card number="1" name="Morphic Pool"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Mulldrifter"/>
+        <card number="1" name="Necromancy"/>
+        <card number="1" name="Noxious Gearhulk"/>
+        <card number="1" name="Palinchron"/>
+        <card number="1" name="Peregrine Drake"/>
+        <card number="1" name="Perpetual Timepiece"/>
+        <card number="1" name="Phyrexian Ingester"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Rakdos Carnarium"/>
+        <card number="1" name="Rakdos Charm"/>
+        <card number="1" name="Rakdos Signet"/>
+        <card number="1" name="Ravenous Chupacabra"/>
+        <card number="1" name="Reanimate"/>
+        <card number="1" name="Reflecting Pool"/>
+        <card number="1" name="Rise of the Dark Realms"/>
+        <card number="1" name="Scalding Tarn"/>
+        <card number="1" name="Sedris, the Traitor King"/>
+        <card number="1" name="Sepulchral Primordial"/>
+        <card number="1" name="Shivan Reef"/>
+        <card number="1" name="Shriekmaw"/>
+        <card number="1" name="Sneak Attack"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Stubborn Denial"/>
+        <card number="1" name="Sulfur Falls"/>
+        <card number="1" name="Sulfurous Springs"/>
+        <card number="1" name="Sundial of the Infinite"/>
+        <card number="2" name="Swamp"/>
+        <card number="1" name="Swan Song"/>
+        <card number="1" name="Talisman of Creativity"/>
+        <card number="1" name="Talisman of Dominance"/>
+        <card number="1" name="Talisman of Indulgence"/>
+        <card number="1" name="Teferi's Veil"/>
+        <card number="1" name="Thassa, Deep-Dwelling"/>
+        <card number="1" name="Thran Dynamo"/>
+        <card number="1" name="Training Grounds"/>
+        <card number="1" name="Tribute Mage"/>
+        <card number="1" name="Underground River"/>
+        <card number="1" name="Urborg, Tomb of Yawgmoth"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Warstorm Surge"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Whip of Erebos"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Worn Powerstone"/>
+        <card number="1" name="Fierce Guardianship"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Academy Ruins"/>
+        <card number="1" name="Acquire"/>
+        <card number="1" name="Aetherize"/>
+        <card number="1" name="Aethersnatch"/>
+        <card number="1" name="Aetherspouts"/>
+        <card number="1" name="Agent of Treachery"/>
+        <card number="1" name="Aquitect's Will"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Blue Sun's Zenith"/>
+        <card number="1" name="Burnished Hart"/>
+        <card number="1" name="Chaos Wand"/>
+        <card number="1" name="Chart a Course"/>
+        <card number="1" name="Clever Impersonator"/>
+        <card number="1" name="Cloak and Dagger"/>
+        <card number="1" name="Clone"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Desertion"/>
+        <card number="1" name="Diluvian Primordial"/>
+        <card number="1" name="Energy Tap"/>
+        <card number="1" name="Everflowing Chalice"/>
+        <card number="1" name="Flow of Ideas"/>
+        <card number="1" name="Followed Footsteps"/>
+        <card number="1" name="Hedron Archive"/>
+        <card number="1" name="High Tide"/>
+        <card number="1" name="Insidious Will"/>
+        <card number="27" name="Island"/>
+        <card number="1" name="Knowledge Exploitation"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Lingering Mirage"/>
+        <card number="1" name="Manifold Key"/>
+        <card number="1" name="Mechanized Production"/>
+        <card number="1" name="Memnarch"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Mind's Dilation"/>
+        <card number="1" name="Mirrormade"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Narset's Reversal"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Padeem, Consul of Innovation"/>
+        <card number="1" name="Phyrexian Metamorph"/>
+        <card number="1" name="Polymorphist's Jest"/>
+        <card number="1" name="Pull from Tomorrow"/>
+        <card number="1" name="Quicksilver Fountain"/>
+        <card number="1" name="Redirect"/>
+        <card number="1" name="Reins of Power"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Roil Elemental"/>
+        <card number="1" name="Saheeli's Artistry"/>
+        <card number="1" name="Scavenger Grounds"/>
+        <card number="1" name="Sky Diamond"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Spark Double"/>
+        <card number="1" name="Spell Swindle"/>
+        <card number="1" name="Spelltwine"/>
+        <card number="1" name="Sphinx Ambassador"/>
+        <card number="1" name="Spreading Seas"/>
+        <card number="1" name="Star Compass"/>
+        <card number="1" name="Stolen Identity"/>
+        <card number="1" name="Streambed Aquitects"/>
+        <card number="1" name="Stunt Double"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Sword of the Animist"/>
+        <card number="1" name="Terrain Generator"/>
+        <card number="1" name="Thada Adel, Acquisitor"/>
+        <card number="1" name="Thran Dynamo"/>
+        <card number="1" name="Twincast"/>
+        <card number="1" name="Unwinding Clock"/>
+        <card number="1" name="Vedalken Plotter"/>
+        <card number="1" name="Wash Out"/>
+        <card number="1" name="Whir of Invention"/>
+        <card number="1" name="Whispersilk Cloak"/>
+        <card number="1" name="Withdraw"/>
+        <card number="1" name="Worn Powerstone"/>
+    </zone>
+</cockatrice_deck>
